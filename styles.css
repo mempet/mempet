@@ -73,7 +73,7 @@ a {
   align-items: center;
   text-align: center;
   background-color: rgb(151, 0, 0);
-  color: rgba(255, 255, 255, 0.646);
+  color: rgb(27, 26, 26);
   font-weight: bolder;
   width: 100%;
   padding: 12px;
@@ -219,6 +219,7 @@ label{
 
 #endereco{
   color: rgb(27, 26, 26);
+  border-color: rgb(27, 26, 26);
 }
 
 #color-delivery{
